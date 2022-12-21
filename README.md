@@ -1,4 +1,4 @@
-# -minimum_number_of_seats_the_vehicle_should_have
+# Minimum_number_of_seats_the_vehicle_should_have
 
 # Question
 
